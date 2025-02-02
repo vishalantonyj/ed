@@ -1,17 +1,17 @@
-# Project Title
+# 🌟 Project Title
 
-A brief description of what this project does and who it's for.
+_A brief description of what this project does and who it's for._
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## 🚀 Installation
 
-Instructions on how to install and set up the project.
+_Follow these steps to install and set up the project._
 
 ```bash
 # Clone the repository
